@@ -1,0 +1,31 @@
+Person Table,Field Name,Expected Value,Actual Value
+-,ContactNumber,5000721329,5000721329
+-,GivenName,Richard,Richard
+-,FamilyName,Abbott,Abbott
+-,MiddleName,Johnn,John
+-,Title,Dr,Dr
+-,NameFlag,L,L
+-,Sex,Male,Male
+-,EmailAddress,masked@ahpra.com.au,masked@ahpra.com.au
+-,LastEditDate,5/4/2020 5:31:04 PM,5/4/2020 5:31:04 PM
+,,,
+-,ContactNumber,8338382079,8338382079
+-,GivenName,Mahmoudd,Mahmoud
+-,FamilyName,Abdallaaa,Abdalla
+-,MiddleName,Abdel-Sadek Mohamed,Abdel-Sadek Mohamed
+-,Title,Dr,Dr
+-,NameFlag,L,L
+-,Sex,Male,Male
+-,EmailAddress,masked@ahpra.com.au,masked@ahpra.com.au
+-,LastEditDate,5/4/2020 5:31:04 PM,5/4/2020 5:31:04 PM
+,,,
+-,ContactNumber,6670620817,6670620817
+-,GivenName,Abdul-Pivotalb,Abdul-Pivotalb
+-,FamilyName,Abdul-Pivotal Upgradeb,Abdul-Pivotal Upgradeb
+-,MiddleName,Rah,Rahima
+-,Title,Mr,Dr
+-,NameFlag,L,L
+-,Sex,Male,Male
+-,EmailAddress,masked@ahpra.com.au,masked@ahpra.com.au
+-,LastEditDate,5/4/2020 5:31:04 PM,5/4/2020 5:31:04 PM
+,,,
